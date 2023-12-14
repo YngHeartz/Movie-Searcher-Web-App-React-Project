@@ -29,7 +29,6 @@ const App = () => {
     };
 
     const handleSearchClick = () => {
-        // Call the searchMovies function with the current searchTerm
         searchMovies(searchTerm);
     };
 
